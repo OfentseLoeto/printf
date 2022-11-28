@@ -3,6 +3,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdarg.h>
+
+/**
+ * struct specifiers - Struct specifiers
+ * @specifier: The conversion specifier
+ * @f: The function pointer
+ *
+ */
 typedef struct specifiers
 {
 
